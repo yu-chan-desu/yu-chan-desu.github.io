@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+parmalink: /docs/softwareEng2026
+---
+
 # ソフトウェア工学　第11回課題
 
 ## 第1回まとめ
